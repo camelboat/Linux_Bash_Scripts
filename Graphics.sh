@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # This is script for installing NVIDIA graphics
 # card driver to Ubuntu
 

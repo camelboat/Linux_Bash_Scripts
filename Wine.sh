@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # This is Ubuntu shell script for installing Wine
 sudo add-apt-repository ppa:wine/wine-builds
 sudo apt-get update

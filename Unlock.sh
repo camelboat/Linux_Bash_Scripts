@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # This is the Ubuntu shell script
 
 # When facing the following error message, you can run
