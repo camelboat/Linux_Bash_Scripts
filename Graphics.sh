@@ -19,3 +19,5 @@ sudo sh driver.run
 # If you want to automatically reboot your computer
 # Please uncomment the following line
 # sudo reboot
+
+exit
