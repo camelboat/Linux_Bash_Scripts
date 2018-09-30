@@ -1,0 +1,11 @@
+This is a bash script running in Linux 18.04LTS
+You can use this script to learn the weather
+condition (AQI value and temperature) of
+Shanghai in real time.
+
+Data comes from http://aqicn.org
+
+* Please run this script by
+
+$ chmod +x Shanghai_Weather.sh
+$ ./Shanghai_Weather.sh 

@@ -1,0 +1,9 @@
+This is a bash script running in Linux 18.04LTS
+
+You can use this script to get the IP address from
+ifconfig whose interface is wlp4s0
+
+* Please run this script by
+
+$ chmod +x Active_IP.sh
+$ ./Active_IP.sh
