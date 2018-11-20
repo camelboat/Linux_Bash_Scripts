@@ -18,6 +18,9 @@ sudo sh driver.run
 
 # If you want to automatically reboot your computer
 # Please uncomment the following line
-# sudo reboot
+#sudo reboot
+
+# Check the information about graphicx card:
+#sudo lshw -C display
 
 exit
