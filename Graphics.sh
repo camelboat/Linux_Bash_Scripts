@@ -22,5 +22,6 @@ sudo sh driver.run
 
 # Check the information about graphicx card:
 #sudo lshw -C display
+#inxi -G
 
 exit
