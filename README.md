@@ -1,4 +1,4 @@
-# Ubuntu-Script
+# Linux_Bash_Scripts
 
 This is the collection of useful bash scripts working on Ubuntu 18.04.
 
