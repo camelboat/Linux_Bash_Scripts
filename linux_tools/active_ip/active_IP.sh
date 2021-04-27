@@ -1,8 +1,11 @@
 #!/bin/bash
 
+INTERFACE='eth0'
+
 # First find the line number of active network,
 # stored in tmp
-tmp=$(ifconfig | awk '{if($1~/wlp4s0/) print NR}')
+# tmp=$(ifconfig | awk '{if($1~/eth0/) print NR}')
+tmp=$(ifconfig | awk "{if(\$1~/${INTERFACE}/) print NR}")
 
 # Calculate the line number of IP address
 let tmp=tmp+1
